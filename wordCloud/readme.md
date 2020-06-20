@@ -1,8 +1,7 @@
 # WordCloud
 
-- PyDataFukuokaのハンズオンに触発されて作成しました。
-
- - https://pydatafukuoka.connpass.com/event/176637/
+- connpassのニックネームを入力すると、参加したconnpassのイベントと主催者名から、ワードクラウドを生成するWebアプリです。
+- PyDataFukuokaのハンズオンに触発されて作成しました。 https://pydatafukuoka.connpass.com/event/176637/
 
 ## 使用したPythonライブラリ
 
