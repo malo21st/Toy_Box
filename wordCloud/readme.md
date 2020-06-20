@@ -1,6 +1,7 @@
 # WordCloud
 
 - PyDataFukuokaのハンズオンに触発されて作成しました。
+
  - https://pydatafukuoka.connpass.com/event/176637/
 
 ## 使用したPythonライブラリ
@@ -9,6 +10,6 @@
 - 形態素解析：Janome https://mocobeta.github.io/janome/en/
 - Webフレームワーク：Dash https://plotly.com/dash/
 
-## Dashでワーククラウド作成する際に参考にしました。
+## Dashでワードクラウド作成する際に参考にしました。
 
 - https://stackoverflow.com/questions/58907867/how-to-show-wordcloud-image-on-dash-web-application
